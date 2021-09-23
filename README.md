@@ -5,6 +5,7 @@ This project is about real time face recognition using Haar cascade whereby the 
     3)You can name the user according to the id in the script file. Then run the recognition.py file and voila you have face recognized by your drone.
 
 Result
+![ariana](https://user-images.githubusercontent.com/88258712/134495394-51e64ca3-4cc8-4895-8244-33bb45e4478a.jpg)
 
 
 References: 
