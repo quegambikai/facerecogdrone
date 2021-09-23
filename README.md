@@ -10,7 +10,7 @@ Result
 
 d;d
 
-References:
+References: 
 
 https://elbruno.com/2020/03/09/coding4fun-how-to-control-your-drone-with-20-lines-of-code-10-n
 https://github.com/medsriha/Real-Time-Face-Recognition
