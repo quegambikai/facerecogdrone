@@ -5,7 +5,7 @@ This project is about real time face recognition using Haar cascade whereby the 
        The captured grayscale images will be stored in a folder called "images" which will be created 
        by itself if it does not exist.
     2) Run the train.py to train the images.
-    3) You can name the user according to the id in the script file. 
+    3) You can name the user according to the id in the recognition.py script. 
        Then run the recognition.py file and voila you have face recognized by your drone.
 
 Result
