@@ -16,5 +16,7 @@ Result
 References: 
 
 i)https://elbruno.com/2020/03/09/coding4fun-how-to-control-your-drone-with-20-lines-of-code-10-n
+
 ii)https://github.com/medsriha/Real-Time-Face-Recognition 
+
 iii)https://github.com/damiafuentes/DJITelloPy/blob/master/examples/manual-control-opencv.py
