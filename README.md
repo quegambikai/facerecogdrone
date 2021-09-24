@@ -13,7 +13,6 @@ Result
 <img width="276" alt="d;d" src="https://user-images.githubusercontent.com/88258712/134495611-4a83badf-9093-40ac-8212-f982422e58ba.PNG">
 
 
-
 References: 
 
 i)https://elbruno.com/2020/03/09/coding4fun-how-to-control-your-drone-with-20-lines-of-code-10-n
